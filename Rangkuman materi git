@@ -3,3 +3,7 @@ cara membuat repo dengan git init
 membuat file dengan git bash local
 menjalankan fungsi commit mencatat semua perubahan
 perkenalan tentang branch (percabangan)
+membuat branch
+lalu melakukan merge penggabungan ke master
+resolve cnflict
+selesai
